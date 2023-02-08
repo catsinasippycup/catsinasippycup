@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @catsinasippycup (James Peou)
+- 👋 Hi, I’m catsinasippycup (or cats)
 - Projects are from school or self projects
 
 <!---
